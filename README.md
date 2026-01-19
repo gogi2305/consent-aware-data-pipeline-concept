@@ -42,4 +42,13 @@ but **where automation must stop**.
 - Not a background check tool
 - Not an HR system
 - Not a data scraping service
+
+- ## Project structure
+- `architecture/` — high-level design
+- `consent/` — model of consent object
+- `explainability/` — explanation model
+- `audit/` — audit log model
+- `mock/` — demo report
+
 - Not intended for production use
+
