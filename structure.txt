@@ -1,0 +1,15 @@
+consent-aware-data-pipeline-concept/
+├── README.md
+├── DISCLAIMER.md
+├── LICENSE
+├── architecture/
+│   ├── system-overview.md
+│   └── trust-boundaries.md
+├── consent/
+│   └── consent-model.md
+├── explainability/
+│   └── explainability-model.md
+├── mock/
+│   └── sample-report.json
+└── audit/
+    └── audit-log-model.md
